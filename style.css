@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: orange;
+}
+
+#home {
+    margin: 16px;
+    float: left;
+}
+
+#home a {
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+}
+
+#home a:hover {
+    background-color: antiquewhite;
+    color: blue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: antiquewhite;
+}
+
+#carouselExampleCaptions {
+    margin: 0;
+}
+
+#About h1 {
+    color: #F97300;
+}
+
+.icon-home {
+    height: 50px;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+.row h2 {
+    text-align: center;
+    color: #050504;
+    margin-bottom: 50px;
+}
+
+.card {
+    margin-right: auto;
+}
+
+#about img {
+    float: left;
+    margin-right: 20px;
+}
+
+.portofolio img {
+    height: 15rem;
+    width: 100%;
+    margin: 1em;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
